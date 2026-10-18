@@ -4,9 +4,9 @@ A Flappy Bird-inspired arcade game built with Python and Pygame. Control the bir
 
 ## 🎮 Screenshots
 
-<img width="288" height="542" alt="Screenshot 2026-10-18 201154" src="https://github.com/user-attachments/assets/442fb430-5f1f-4735-9841-ac99d1d2c1f3" />
-<img width="283" height="541" alt="Screenshot 2026-10-18 201807" src="https://github.com/user-attachments/assets/4d88c988-5446-4587-a1a8-d7a9434e7d6a" />
-<img width="287" height="543" alt="Screenshot 2026-10-18 201449" src="https://github.com/user-attachments/assets/027cc77b-57e8-457c-a39c-13c986f26752" />
+<img width="280" height="540" alt="Screenshot 2026-10-18 201154" src="https://github.com/user-attachments/assets/442fb430-5f1f-4735-9841-ac99d1d2c1f3" />
+<img width="280" height="540" alt="Screenshot 2026-10-18 201807" src="https://github.com/user-attachments/assets/4d88c988-5446-4587-a1a8-d7a9434e7d6a" />
+<img width="280" height="540" alt="Screenshot 2026-10-18 201449" src="https://github.com/user-attachments/assets/027cc77b-57e8-457c-a39c-13c986f26752" />
 
 
 ## ✨ Features
